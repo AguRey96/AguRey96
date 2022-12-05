@@ -1,5 +1,3 @@
-## Hey 👋, I'm Agustin Reynoso!  
-
 <div align="center">
 <img src="https://res.cloudinary.com/dkvp6ltvi/image/upload/v1670277104/Personal/Dise%C3%B1o_sin_t%C3%ADtulo_wyg5lm.gif" align="center" style="width: 100%" />
 </div>  
