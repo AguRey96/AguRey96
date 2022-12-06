@@ -28,6 +28,40 @@
 <br/>
 <br/>
 
+## 🚀 About Me
+🙋🏽‍♂️ Hola! Soy Agustin!
+Desarrollador Full Stack recién graduado del Bootcamp "SOY HENRY" el cual fue muy exigente con mas de 800 horas de cursado teorico-practico durante 4 meses aprendiendo tecnologias de Frontend y Backend.
+
+💁🏽‍♂️ Soft skills <br>
+🔶 Soy una persona proactiva, responsable y ordenada.<br>
+🔶 Resolucion de Problemas. Trabajo en Equipo. Buenas relaciones Interpersonales.<br>
+🔶 Pensamiento critico. Empatia. Abierto a las Criticas constructivas.<br>
+🔶 Siempre con ganas en aprender y emprender nuevos desafios.<br>
+
+## 👨🏽‍💻 🛠 Techs Skills
+🔷 HTML<br>
+🔷 NODE.JS<br>
+🔷 EXPRESS<br>
+🔷 SEQUELIZE<br>
+🔷 SQL (PostgrSQL)<br>
+🔷 JAVASCRIPT <br>
+🔷 REACT <br>
+🔷 REDUX <br>
+🔷 RTK-Query<br>
+🔷 GIT<br>
+🔷 SCRUM<br>
+
+## 💻 ¿Cuál es mi motivación?
+ ⚡️ Desarrollarme en equipos de trabajo eficientes.<br>
+ ⚡️ Mejorar tanto en el aspecto personal, como laboral.<br>
+ ⚡️ Cumplir objetivos y metas planteadas.<br>
+ ⚡️ Seguir adquiriendo conocimientos referidos al desarrollo web.<br>
+ ⚡️ Aprender nuevos lenguajes de programación<br>
+ 
+ <br>
+ <br>
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/AguRey96" target="_blank">
